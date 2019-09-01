@@ -18,7 +18,7 @@ import org.jsoup.select.Elements;
  *
  * @author jedic
  */
-public abstract class Scrapper implements com.example.otacoid.scraper.ScraperInterface {
+public class Scrapper implements com.example.otacoid.scraper.ScraperInterface {
     
     @Override
     public String scrapeASINcode(String resultLink){

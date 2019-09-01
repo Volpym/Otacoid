@@ -16,7 +16,7 @@ import com.example.otacoid.scraper.Scrapper;
  *
  * @author jedic
  */
-public abstract class UrlManager implements com.example.otacoid.urlManager.URLManagerInterface {
+public class UrlManager implements com.example.otacoid.urlManager.URLManagerInterface {
     
     @Override
     public String createBarcodeLink(String barcode) {

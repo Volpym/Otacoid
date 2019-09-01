@@ -23,7 +23,7 @@
         app:layout_constraintVertical_bias="0.938" />
 
     <Button
-        android:id="@+id/buttonSignUp"
+        android:id="@+id/buttonSignIn"
         android:layout_width="209dp"
         android:layout_height="36dp"
         android:layout_marginTop="24dp"
@@ -93,7 +93,7 @@
         app:layout_constraintVertical_bias="0.689" />
 
     <ImageView
-        android:id="@+id/imageView2"
+        android:id="@+id/logo_image_view"
         android:layout_width="211dp"
         android:layout_height="250dp"
         android:layout_marginStart="24dp"

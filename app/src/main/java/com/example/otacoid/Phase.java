@@ -25,7 +25,7 @@ class Phase{
    Scrapper spiderman;
    UrlManager jarvis;
    
-   java.sql.Connection connection = database.connect("root", "password", "jdbc:mysql://localhost/amazoup");
+   java.sql.Connection connection = database.connect("root", "ac0b3passGGsmokescreen", "jdbc:mysql://192.168.1.5/amazoup");
    java.sql.Statement myStmt;
    
    /**
